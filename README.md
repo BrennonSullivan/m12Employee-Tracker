@@ -6,7 +6,7 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 ## Demo 
 
-![Demo](https://github.com/EdenKhaos/12-mysql-employee-tracker/blob/master/assets/12-Employee-Tracker-Demo.gif)
+![Demo](./assets/12-Employee-Tracker-Demo.gif)
 
 ## Description
 * Functional application.
@@ -54,6 +54,6 @@ So that I can organize and plan my business
   - [Project Repo](https://github.com/EdenKhaos/12-mysql-employee-tracker)
 
 ## Contributions
-1. ![GitHub license](https://img.shields.io/badge/Made%20by-%40EdenKhaos-orange)
+1. ![GitHub license](https://img.shields.io/badge/Made%20By-%40BrennonSullivan-orange)
 2. No front end files required.
 3. use seed.sql to create an existing table to pull sample information from to make it easier to run through the app.
