@@ -3,7 +3,6 @@
 
 Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems. In this homework assignment, your challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
 
-- [Live Link to Demo](https://www.youtube.com/watch?v=xP8feYon4gw&t=5s)
 
 ## Table of Contents
 
@@ -18,6 +17,9 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 ## Demo 
 
 ![Demo](./assets/12-Employee-Tracker-Demo.gif)
+
+[Live Link to Demo](https://www.youtube.com/watch?v=xP8feYon4gw&t=5s)
+
 
 ## Description
 * Functional application.
@@ -62,4 +64,4 @@ So that I can organize and plan my business
 ## Contributions
 1. ![GitHub license](https://img.shields.io/badge/Made%20By-%40BrennonSullivan-orange)
 2. No front end files required.
-3. use seed.sql to create an existing table to pull sample information from to make it easier to run through the app.
+3. (optional) use seed.sql to create an existing table to pull sample information from to make it easier to run through the app.
