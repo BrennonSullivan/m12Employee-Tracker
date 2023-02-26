@@ -52,7 +52,7 @@ So that I can organize and plan my business
 2. Open project directory, then npm install to install all required dependencies 
 
 ## Usage
-1. make sure to run .sql file in mySQL workbench before running server.js so that tables are able to render correctly
+1. make sure to run schema.sql in mySQL workbench or from console before running server.js so that tables are able to render correctly
 2. run node server.js
 3. make sure server.js is connected to SQL before continuing
 4. run through prompts as required 
