@@ -46,7 +46,7 @@ So that I can organize and plan my business
 
 ## Repository
 
-  - [Project Repo](https://github.com/EdenKhaos/12-mysql-employee-tracker)
+  - [Project Repo](https://github.com/BrennonSullivan/m12Employee-Tracker)
 
 ## Contributions
 1. ![GitHub license](https://img.shields.io/badge/Made%20By-%40BrennonSullivan-orange)
