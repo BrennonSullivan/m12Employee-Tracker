@@ -20,7 +20,7 @@
   "homepage": "https://github.com/BrennonSullivan/m12Employee-Tracker#readme",
   "dependencies": {
     "console.table": "^0.10.0",
-    "inquirer": "^7.3.3",
+    "inquirer": "^8.2.4",
     "mysql": "^2.18.1"
   },
   "devDependencies": {}
